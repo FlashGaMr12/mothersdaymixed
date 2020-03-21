@@ -1,0 +1,157 @@
+/*
+#d63447
+#cc0e74
+#721b65
+#424874
+#dc2ade
+#e8f044
+#05dfd7
+#790c5a
+#ffa41b
+#61d4b3
+#ce0f3d
+#297ca0
+#2e279d
+#9b45e4
+#bc4873
+#f45905
+#aa26da
+#ff4d00
+#1089ff
+#01d28e
+#1fab89
+*/
+
+body{
+background-color: #ffb0cd;
+margin: 0;
+}
+
+
+h1{
+text-align: center;
+font-family: 'Kaushan Script', cursive;
+font-weight: 700;
+}
+
+h2{
+  text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 16px;
+font-weight: 600;
+color: #be79df;
+}
+
+p{
+width: 40%;
+
+text-align: center;
+padding-top: 110px;
+font-family: 'Kalam', cursive;
+font-size: 20px;
+color: #481380;
+
+
+}
+
+/**********************************CLASS SELECTORS****************************/
+.arabmum{
+position: absolute;
+  width: 20%;
+top:560px;
+left:5px;
+}
+
+.Bestmumm{
+  width: 20%;
+  position: absolute;
+  right:5px;
+  top:165px;
+
+}
+
+.arabic{
+  position: absolute;
+  font-family: 'Reem Kufi', sans-serif;
+  font-weight: 400;
+font-size: 25px;
+width: 20%;
+margin-left: 1100px;
+bottom: 60px;
+}
+
+.MDAY{
+width: 22%;
+margin-bottom:100px;
+margin-right: 5px;
+float: right;
+}
+
+
+.Ilovemum{
+width: 20%;
+margin-left: 5px;
+float: left;
+margin-top: 90px;
+height: 40%;
+
+}
+
+
+.H{
+
+  color: #d63447;
+}
+
+.A{
+color: #dc2ade;
+}
+.PP{
+ color: #cc0e74;
+}
+
+.Y{
+color: #01d28e;
+
+}
+
+.M{
+color: #2e279d;
+
+}
+.O{
+color: #e8f044;
+}
+
+.TH{
+color: #ffa41b;
+}
+
+.E{
+color: #61d4b3;
+
+}
+
+.R{
+  color: #424874;
+
+}
+
+.SS{
+  color: #bc4873;
+}
+.D{
+  color: #2e279d;
+
+
+}
+
+.A{
+color: #790c5a;
+
+}
+
+.Y{
+
+color: #aa26da;
+}
